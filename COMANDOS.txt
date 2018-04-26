@@ -10,9 +10,6 @@ git checkout -b (newbranchname)
 git branch -d (branchname)
 git push (sube los archivos a la wea git hub)
 git status (da el status de la version)
-<<<<<<< HEAD
 git fetch (muestra las modificaciones remotas)
 git pull (baja las modificaciones remotas)
-=======
-ACA ESTOY MODIFICANDO GATO
->>>>>>> ffaf4b55c3ab54bc08e3e82b58322f8ed9d48675
+git reset
