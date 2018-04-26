@@ -1,0 +1,10 @@
+git commit
+vim (documentname)
+git add (documentname)
+git checkout (branchname)
+git merge
+git log
+gitk (abre gui grafica de cambios)
+git gui (interfaz)
+git checkout -b (newbranchname)
+git branch -d (branchname)
