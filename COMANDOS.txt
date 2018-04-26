@@ -1,4 +1,4 @@
-git commit
+git commit -m '(mesage)'
 vim (documentname)
 git add (documentname)
 git checkout (branchname)
@@ -8,3 +8,5 @@ gitk (abre gui grafica de cambios)
 git gui (interfaz)
 git checkout -b (newbranchname)
 git branch -d (branchname)
+git push (sube los archivos a la wea git hub)
+git status (da el status de la version)
